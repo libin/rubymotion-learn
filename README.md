@@ -6,7 +6,8 @@ rubymotion experimental projects
 yet to start one
 
 
-
+RUNS
+====
 third party projects which work
 
 https://github.com/HipByte/RubyMotionSamples.git
@@ -24,13 +25,22 @@ MapKitSpike1, a fullscreen maps app WIP
 https://github.com/evanphx/distance_between.git
 uses GPS possibly better tested on a device
 
+https://github.com/caike/MotionHello.git
+first app seen to use a thirdparty library(bubblewrap), small graphic animation
 
 
-
+FAILS
+=====
 getting errors DTiPhoneSimulatorErrorDomain
 
 https://github.com/mattetti/BubbleWrap.git 
+library to simplify development
+
 	
 https://github.com/matterker/testtests.git 
 	
 https://github.com/samchandra/Fonts.git
+
+https://github.com/jamesjn/fast_imgur_emailer-motion-ios.git
+
+https://github.com/rjfranco/pragmatic-rubymotion.git
