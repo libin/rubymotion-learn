@@ -35,3 +35,7 @@ Command failed with status (1): [ /Library/RubyMotion/bin/sim 2 1 5.0 "/Dev...]
 
 no results on google yet, need to find a forum to post it
 possibly related to simulator, as similar error also found on Titanium
+
+just discovered all apps that are crashing have additional dependency added in the rakefile
+
+need to investigate further
