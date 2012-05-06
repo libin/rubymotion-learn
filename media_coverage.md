@@ -30,4 +30,6 @@ review from the author of Macruby book
 http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/
 
 
+http://thechangelog.com/post/22382632321/ruby-motion-samples-write-iphone-apps-in-ruby
+
 http://samsoff.es/posts/rubymotion-review
