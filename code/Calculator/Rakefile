@@ -1,5 +1,7 @@
 $:.unshift("/Library/RubyMotion/lib")
 require 'motion/project'
+require 'cocoapods'
+require 'motion-cocoapods'
 
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
@@ -8,4 +10,10 @@ Motion::Project::App.setup do |app|
    app.device_family = :ipad
   app.prerendered_icon = true
   app.icons = %w{icon.png}
+  
+  app.pods do
+      dependency 'JSONKit'
+     #dependency 'ABContactHelper'
+    end
+    
 end
