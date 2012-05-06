@@ -5,6 +5,7 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'Calculator'
   app.interface_orientations = [:portrait]
+   app.device_family = :ipad
   app.prerendered_icon = true
   app.icons = %w{icon.png}
 end
