@@ -29,3 +29,5 @@ http://arstechnica.com/business/news/2012/05/exclusive-building-ruby-ios-applica
 review from the author of Macruby book
 http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/
 
+
+http://samsoff.es/posts/rubymotion-review

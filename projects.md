@@ -46,5 +46,10 @@ textmate bundle
 https://github.com/libin/RubyMotion.tmbundle
 
 library to simplify development
-
 https://github.com/mattetti/BubbleWrap.git 
+
+An Active Record pattern for your Parse models on RubyMotion.
+https://github.com/adelevie/ParseModel.git
+
+
+
