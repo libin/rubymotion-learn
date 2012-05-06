@@ -33,3 +33,5 @@ http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/
 http://thechangelog.com/post/22382632321/ruby-motion-samples-write-iphone-apps-in-ruby
 
 http://samsoff.es/posts/rubymotion-review
+
+http://joshsymonds.com/blog/2012/05/04/why-rubymotion-is-better-than-objective-c/
