@@ -1,6 +1,14 @@
 
 projects tested on my 2008 mbp 
 
+yesterday there were 13 projects
+7th May 28 projects
+
+expecting more people will push their projects today to github
+
+added a HN Post
+http://news.ycombinator.com/item?id=3939347
+
 RUNS
 ====
 third party projects which work
