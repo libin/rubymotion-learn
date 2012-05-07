@@ -41,7 +41,8 @@ http://blog.hackplanet.in/2012/05/rubymotion-ruby-for-ios.html
 http://daringfireball.net/linked/2012/05/03/rubymotion
 
 
-
+http://www.biggermind.com/?p=176
+Using ZXing with RubyMotion
 
 
 
