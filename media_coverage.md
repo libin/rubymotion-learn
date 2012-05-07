@@ -35,3 +35,19 @@ http://thechangelog.com/post/22382632321/ruby-motion-samples-write-iphone-apps-i
 http://samsoff.es/posts/rubymotion-review
 
 http://joshsymonds.com/blog/2012/05/04/why-rubymotion-is-better-than-objective-c/
+
+http://blog.hackplanet.in/2012/05/rubymotion-ruby-for-ios.html
+
+http://daringfireball.net/linked/2012/05/03/rubymotion
+
+
+
+
+
+
+
+
+
+
+
+
