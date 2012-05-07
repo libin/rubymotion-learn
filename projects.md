@@ -43,6 +43,9 @@ depends on QuickDialog, clone it into vendor https://github.com/escoz/QuickDialo
 https://github.com/siuying/NanoStoreInMotion.git
 works but you need to install cocoapods and a podfile for NanoStore to get it to work
 
+https://github.com/aaronfeng/facebook-auth-ruby-motion-example.git
+app starts and then opens web browser window taking you to  facebook login page, possibly needs a api-key somewhere, need to read the code
+
 
 FAILS
 =====
