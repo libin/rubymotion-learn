@@ -3,7 +3,10 @@ rubymotion-learn
 
 rubymotion experimental projects
 
-yet to start one
+first app is a calculator app
+
+code/Calculator
+
 
 
 

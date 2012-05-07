@@ -23,6 +23,15 @@ uses GPS possibly better tested on a device
 https://github.com/caike/MotionHello.git
 first app seen to use a thirdparty library(bubblewrap), small graphic animation
 
+https://github.com/rjowens/TableViewPullRefresh.git
+
+https://github.com/samchandra/Fonts.git
+
+https://github.com/jamesjn/fast_imgur_emailer-motion-ios.git
+
+https://github.com/gpasq/RubyMotionZXingExample.git
+
+https://github.com/anydiem/cocosmotion.git 40+mb to clone it
 
 FAILS
 =====
@@ -31,12 +40,14 @@ getting errors DTiPhoneSimulatorErrorDomain
 	
 https://github.com/matterker/testtests.git 
 	
-https://github.com/samchandra/Fonts.git
 
-https://github.com/jamesjn/fast_imgur_emailer-motion-ios.git
 
 https://github.com/rjfranco/pragmatic-rubymotion.git
 
+
+
+
+ 
 
 
 Tools
