@@ -66,6 +66,8 @@ Tools and Libraries
 textmate bundle
 https://github.com/libin/RubyMotion.tmbundle
 
+https://github.com/kattrali/redcar-rubymotion.git
+Basic RubyMotion workflow support in Redcar Editor
 
 https://github.com/mattetti/BubbleWrap.git 
 library to simplify development
