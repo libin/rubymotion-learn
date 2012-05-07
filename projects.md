@@ -33,13 +33,12 @@ https://github.com/gpasq/RubyMotionZXingExample.git
 
 https://github.com/anydiem/cocosmotion.git 40+mb to clone it
 
+https://github.com/siuying/RubyMotion-PocketCoreImage.git a small instagram type app with image filters using core image
+
 FAILS
 =====
 getting errors DTiPhoneSimulatorErrorDomain
 
-	
-https://github.com/matterker/testtests.git 
-	
 
 
 https://github.com/rjfranco/pragmatic-rubymotion.git
@@ -50,17 +49,28 @@ https://github.com/rjfranco/pragmatic-rubymotion.git
  
 
 
-Tools
-=====
+Tools and Libraries
+===================
 
 textmate bundle
 https://github.com/libin/RubyMotion.tmbundle
 
-library to simplify development
-https://github.com/mattetti/BubbleWrap.git 
 
-An Active Record pattern for your Parse models on RubyMotion.
+https://github.com/mattetti/BubbleWrap.git 
+library to simplify development
+
 https://github.com/adelevie/ParseModel.git
+An Active Record pattern for your Parse models on RubyMotion.
+
+
+https://github.com/matterker/testtests.git 
+a BDD framework, but default rake task fails for me
+
+
+https://github.com/AaronH/RubyMotion-UserSettings.git
+A convenience wrapper to allow RubyMotion apps easy access to reading, writing, and persisting values via NSUserDefaults
+
+
 
 
 
