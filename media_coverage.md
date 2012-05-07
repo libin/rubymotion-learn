@@ -45,6 +45,10 @@ http://www.biggermind.com/?p=176
 Using ZXing with RubyMotion
 
 
+http://stirredbits.com/blog/2012/05/06/rubymotion-completion-with-emacs/
+emacs completions for Rubymotion
+
+
 
 
 
