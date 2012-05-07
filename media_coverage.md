@@ -48,7 +48,7 @@ Using ZXing with RubyMotion
 http://stirredbits.com/blog/2012/05/06/rubymotion-completion-with-emacs/
 emacs completions for Rubymotion
 
-
+http://ianp.org/2012/05/07/rubymotion-and-interface-builder/
 
 
 
