@@ -35,15 +35,23 @@ https://github.com/anydiem/cocosmotion.git 40+mb to clone it
 
 https://github.com/siuying/RubyMotion-PocketCoreImage.git a small instagram type app with image filters using core image
 
+
+https://github.com/seanlilmateus/rmdialog.git 
+depends on QuickDialog, clone it into vendor https://github.com/escoz/QuickDialog.git
+
+
+https://github.com/siuying/NanoStoreInMotion.git
+works but you need to install cocoapods and a podfile for NanoStore to get it to work
+
+
 FAILS
 =====
 getting errors DTiPhoneSimulatorErrorDomain
 
 
-
 https://github.com/rjfranco/pragmatic-rubymotion.git
 
-
+https://github.com/locousobscura/LastTime-iOS.git
 
 
  

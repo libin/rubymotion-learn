@@ -12,6 +12,7 @@ code/Calculator
 
 
 new rubymotion upgrade is available
+1.0 -> 1.1 -> 1.2 in 3 days awesome and apps break lesser
 
 sudo motion update
 
