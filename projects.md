@@ -5,7 +5,7 @@ projects tested on my 2008 mbp
 
 7th May 28 projects
 
-8th May 39 projects
+8th May 40 projects
 
 expecting more people will push their projects today to github
 
@@ -78,6 +78,9 @@ porting a objective C app to rubymotion WIP
 
 https://github.com/MarkVillacampa/rubymotion-tabbar
 a Tab bar implementation
+
+https://github.com/stiller/LOLCatApp.git
+magic ball variant, LOLCat app
 
 FAILS
 =====
