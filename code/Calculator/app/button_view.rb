@@ -8,6 +8,10 @@ class ButtonView < UIView
     text = "0.00"
     text.drawAtPoint(CGPoint.new(10, 20), withFont:font)
 
+  # label = UILabel.alloc.init
+  #  label.font = font
+  # label.drawTextInRect(CGRectMake(0.0, 0.0, 100.0, 100.0))
+  #  label.text = "0.00"
 
     # draw button
     
