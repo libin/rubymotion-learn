@@ -1,11 +1,11 @@
 
 projects tested on my 2008 mbp 
 
-yesterday there were 13 projects
+6th May 13 projects
 
 7th May 28 projects
 
-8th May 37 projects
+8th May 39 projects
 
 expecting more people will push their projects today to github
 
@@ -76,6 +76,8 @@ https://github.com/ryw/rubymotion-experiments.git
 https://github.com/thbar/learning-rubymotion.git
 porting a objective C app to rubymotion WIP
 
+https://github.com/MarkVillacampa/rubymotion-tabbar
+a Tab bar implementation
 
 FAILS
 =====
@@ -116,7 +118,8 @@ a BDD framework, but default rake task fails for me
 https://github.com/AaronH/RubyMotion-UserSettings.git
 A convenience wrapper to allow RubyMotion apps easy access to reading, writing, and persisting values via NSUserDefaults
 
-
+https://github.com/mattgreen/spry.git
+another framework WIP
 
 
 
