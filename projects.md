@@ -57,8 +57,24 @@ works but you need to install cocoapods and a podfile for NanoStore to get it to
 https://github.com/aaronfeng/facebook-auth-ruby-motion-example.git
 app starts and then opens web browser window taking you to  facebook login page, possibly needs a api-key somewhere, need to read the code
 
+8th May 2012
+
 https://github.com/hellopatrick/wave.git
 settings for a possible game app
+
+https://github.com/tvandervossen/motion-webview.git
+Simple RubyMotion example project to wrap a full-screen HTML5 app into an iOS app, basically a small draw app
+
+https://github.com/ps2/MotionGL.git
+a small GLKit demo, nice animation and texture
+
+https://github.com/rounders/RestKitTest.git
+RestKit Test app, but you need to clone RestKit in vendor(32mb) as well 
+
+https://github.com/ryw/rubymotion-experiments.git
+
+https://github.com/thbar/learning-rubymotion.git
+porting a objective C app to rubymotion WIP
 
 
 FAILS
@@ -70,8 +86,11 @@ https://github.com/rjfranco/pragmatic-rubymotion.git
 
 https://github.com/locousobscura/LastTime-iOS.git
 
-
+https://github.com/macfanatic/rmotion.git
  
+https://github.com/siuying/RubyMotionCocos2d-Static.git
+Cocos2d demo app, builds but when opening app crashes
+
 
 
 Tools and Libraries
