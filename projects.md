@@ -2,7 +2,10 @@
 projects tested on my 2008 mbp 
 
 yesterday there were 13 projects
+
 7th May 28 projects
+
+8th May 37 projects
 
 expecting more people will push their projects today to github
 
@@ -53,6 +56,9 @@ works but you need to install cocoapods and a podfile for NanoStore to get it to
 
 https://github.com/aaronfeng/facebook-auth-ruby-motion-example.git
 app starts and then opens web browser window taking you to  facebook login page, possibly needs a api-key somewhere, need to read the code
+
+https://github.com/hellopatrick/wave.git
+settings for a possible game app
 
 
 FAILS
