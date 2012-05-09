@@ -7,6 +7,8 @@ projects tested on my 2008 mbp
 
 8th May 40 projects
 
+9th May 46 projects
+
 expecting more people will push their projects today to github
 
 added a HN Post
@@ -82,6 +84,15 @@ a Tab bar implementation
 https://github.com/stiller/LOLCatApp.git
 magic ball variant, LOLCat app
 
+9th May
+
+https://github.com/tnantoka/RubyMotionApps.git
+browser app works now, possibly more apps to come
+
+https://github.com/dalacv/WordSearcher.git
+WIP, uses xib/nibs in resource folder with NSStoryboard
+
+
 FAILS
 =====
 getting errors DTiPhoneSimulatorErrorDomain
@@ -124,5 +135,10 @@ A convenience wrapper to allow RubyMotion apps easy access to reading, writing, 
 https://github.com/mattgreen/spry.git
 another framework WIP
 
+https://github.com/jeremyruppel/lotion.git
+it is about building helpers for rubymotion, potential drawback it is attempting to build a rubygem and it uses modules both a strict no-no in rubymotion world
+maybe as a standalone code generator it can work
 
 
+https://github.com/clarkware/Commotion.git
+CoreData wrapper WIP, but it works 
