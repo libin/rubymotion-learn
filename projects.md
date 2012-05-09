@@ -7,7 +7,7 @@ projects tested on my 2008 mbp
 
 8th May 40 projects
 
-9th May 47 projects RubyMotion 1.3 released
+9th May 50 projects RubyMotion 1.3 released
 
 expecting more people will push their projects today to github
 
@@ -117,7 +117,7 @@ last tested on 9th May
 https://github.com/siuying/RubyMotionCocos2d-Static.git
 Cocos2d demo app, builds but when opening app crashes
 
-
+https://github.com/seanho/SimpleView.git
 
 Tools and Libraries
 ===================
