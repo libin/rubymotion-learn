@@ -96,25 +96,28 @@ browser app works now, possibly more apps to come
 https://github.com/dalacv/WordSearcher.git
 WIP, uses xib/nibs in resource folder with NSStoryboard
 
-
-FAILS
-=====
-getting errors DTiPhoneSimulatorErrorDomain
-
-
-https://github.com/rjfranco/pragmatic-rubymotion.git
+9th may after RubyMotion 1.3 upgrade 4 additional apps work on my mac
 
 https://github.com/locousobscura/LastTime-iOS.git
 
 https://github.com/macfanatic/rmotion.git
+
+https://github.com/clayallsopp/remote_model.git
+another library
+
+https://github.com/rjfranco/pragmatic-rubymotion.git
+
+
+FAILS
+=====
+getting errors DTiPhoneSimulatorErrorDomain
  
+last tested on 9th May
+
 https://github.com/siuying/RubyMotionCocos2d-Static.git
 Cocos2d demo app, builds but when opening app crashes
 
-9th May
 
-https://github.com/clayallsopp/remote_model.git
-another library, but deploy crashes for me
 
 Tools and Libraries
 ===================
