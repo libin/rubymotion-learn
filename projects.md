@@ -7,19 +7,23 @@ projects tested on my 2008 mbp
 
 8th May 40 projects
 
-9th May 46 projects
+9th May 47 projects RubyMotion 1.3 released
 
 expecting more people will push their projects today to github
 
 added a HN Post
 http://news.ycombinator.com/item?id=3939347
 
+
+
 RUNS
 ====
-third party projects which work
+
 
 https://github.com/HipByte/RubyMotionSamples.git
 every sample app works
+
+third party projects which work
 
 https://github.com/latompa/griddler.git
 simple game WIP
@@ -107,7 +111,10 @@ https://github.com/macfanatic/rmotion.git
 https://github.com/siuying/RubyMotionCocos2d-Static.git
 Cocos2d demo app, builds but when opening app crashes
 
+9th May
 
+https://github.com/clayallsopp/remote_model.git
+another library, but deploy crashes for me
 
 Tools and Libraries
 ===================
