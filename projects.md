@@ -9,6 +9,8 @@ projects tested on my 2008 mbp
 
 9th May 50 projects RubyMotion 1.3 released
 
+10th May 52 projects
+
 expecting more people will push their projects today to github
 
 added a HN Post
@@ -107,6 +109,12 @@ another library
 
 https://github.com/rjfranco/pragmatic-rubymotion.git
 
+10th May
+
+https://github.com/seanho/SimpleView.git
+
+https://github.com/siuying/SparrowInMotion.git
+a Game built on Sparrow Framework, you would need to fix the Sparrow.podsec to get it working, but feels awesome to think you can do a good game in ruby itself 
 
 FAILS
 =====
