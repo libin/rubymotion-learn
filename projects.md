@@ -1,6 +1,8 @@
 
 projects tested on my 2008 mbp 
 
+I am going to make a major announcement in next couple of hours, watch this space
+
 6th May 13 projects
 
 7th May 28 projects
@@ -9,7 +11,7 @@ projects tested on my 2008 mbp
 
 9th May 50 projects RubyMotion 1.3 released
 
-10th May 52 projects
+10th May 57 projects
 
 expecting more people will push their projects today to github
 
@@ -119,6 +121,12 @@ a Game built on Sparrow Framework, you would need to fix the Sparrow.podsec to g
 https://github.com/spllr/TwitterApp.git
 works fine, have posted on my twitter account
 
+https://github.com/rjowens/SplitViewControllerExample.git
+SplitViewController in rubymotion, targeted at iPad
+
+https://github.com/eatcpcks/rubymotion-bars.git
+I Need Booze, app runs but when getting location crashes
+
 FAILS
 =====
 getting errors DTiPhoneSimulatorErrorDomain
@@ -129,6 +137,11 @@ https://github.com/siuying/RubyMotionCocos2d-Static.git
 Cocos2d demo app, builds but when opening app crashes
 
 https://github.com/seanho/SimpleView.git
+
+https://github.com/siuying/hpple-motion.git
+An XML/HTML parser for RubyMotion, with nokogiri style interface., fails for now
+
+
 
 Tools and Libraries
 ===================
@@ -163,3 +176,5 @@ maybe as a standalone code generator it can work
 
 https://github.com/clarkware/Commotion.git
 CoreData wrapper WIP, but it works 
+
+https://github.com/malkomalko/motion-layouts.git
