@@ -41,6 +41,8 @@ http://blog.hackplanet.in/2012/05/rubymotion-ruby-for-ios.html
 http://daringfireball.net/linked/2012/05/03/rubymotion
 
 
+blogs and projects
+
 http://www.biggermind.com/?p=176
 Using ZXing with RubyMotion
 
@@ -50,6 +52,7 @@ emacs completions for Rubymotion
 
 http://ianp.org/2012/05/07/rubymotion-and-interface-builder/
 
+http://reality.hk/posts/2012/05/05/using-3rd-party-ruby-library-rubymotion/
 
 
 

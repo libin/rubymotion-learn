@@ -116,6 +116,9 @@ https://github.com/seanho/SimpleView.git
 https://github.com/siuying/SparrowInMotion.git
 a Game built on Sparrow Framework, you would need to fix the Sparrow.podsec to get it working, but feels awesome to think you can do a good game in ruby itself 
 
+https://github.com/spllr/TwitterApp.git
+works fine, have posted on my twitter account
+
 FAILS
 =====
 getting errors DTiPhoneSimulatorErrorDomain
